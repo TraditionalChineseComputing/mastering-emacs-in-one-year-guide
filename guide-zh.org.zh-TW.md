@@ -1,8 +1,10 @@
+```
 #+TITLE: 一年成爲Emacs高手 (像神一樣使用編輯器)
 #+AUTHOR: 陳斌 (redguardtoo)
 #+LANGUAGE: zh
 #+TEXINFO_DIR_CATEGORY: Emacs
 #+OPTIONS: ^:{} toc:nil H:5 num:0
+```
 * 簡介
 成爲高手很容易. 我初學Emacs時常忘記"退出"的快捷鍵, 一年後我完全掌握了Emacs.
 
